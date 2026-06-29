@@ -1,0 +1,20 @@
+# Core ML
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.30.0
+
+# LoRA & Quantization
+peft>=0.10.0
+bitsandbytes>=0.43.0
+
+# Unsloth (efficient fine-tuning)
+unsloth
+
+# Data
+datasets>=2.19.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Utilities
+tqdm>=4.66.0
