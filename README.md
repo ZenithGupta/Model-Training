@@ -46,7 +46,7 @@ This repository contains a **LoRA fine-tuned Qwen3-14B model** specialized for s
 
 The easiest way to try the model is through our interactive Colab notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KlWDjihodunrUDKy6Ez3_N4JTEkrxL4C)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZenithGupta/Model-Training/blob/main/notebooks/inference_demo.ipynb)
 
 ### Option 2: Local Setup
 
